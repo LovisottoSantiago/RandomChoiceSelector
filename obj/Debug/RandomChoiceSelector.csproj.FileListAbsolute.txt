@@ -1,0 +1,14 @@
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\bin\Debug\RandomChoiceSelector.exe.config
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\bin\Debug\RandomChoiceSelector.exe
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\bin\Debug\RandomChoiceSelector.pdb
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.csproj.AssemblyReference.cache
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.Form1.resources
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.Properties.Resources.resources
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.csproj.GenerateResource.cache
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.csproj.CoreCompileInputs.cache
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.exe
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.pdb
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\bin\Debug\RandomChoiceSelector.exe.manifest
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\bin\Debug\RandomChoiceSelector.application
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.exe.manifest
+C:\Users\Lovidev\source\repos\RandomChoiceSelector\obj\Debug\RandomChoiceSelector.application
