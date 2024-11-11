@@ -53,7 +53,7 @@ namespace RandomChoiceSelector {
             }
             else {
                 string result = randomChoice(strings);
-                finalResult.Text = "La opción elegida es: " + result + ".";            
+                finalResult.Text = "La opción elegida es:  '" + result + "'.";            
             } 
         }
 

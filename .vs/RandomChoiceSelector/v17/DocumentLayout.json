@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lovidev\\source\\repos\\RandomChoiceSelector\\",
+  "WorkspaceRootPath": "C:\\Users\\Lovidev\\Documents\\GitHub\\RandomChoiceSelector\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DDDBE4E-C102-41B3-AED7-0AC3A11A4459}|RandomChoiceSelector.csproj|c:\\users\\lovidev\\source\\repos\\randomchoiceselector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9DDDBE4E-C102-41B3-AED7-0AC3A11A4459}|RandomChoiceSelector.csproj|c:\\users\\lovidev\\documents\\github\\randomchoiceselector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9DDDBE4E-C102-41B3-AED7-0AC3A11A4459}|RandomChoiceSelector.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DDDBE4E-C102-41B3-AED7-0AC3A11A4459}|RandomChoiceSelector.csproj|C:\\Users\\Lovidev\\source\\repos\\RandomChoiceSelector\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DDDBE4E-C102-41B3-AED7-0AC3A11A4459}|RandomChoiceSelector.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,27 +22,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\source\\repos\\RandomChoiceSelector\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\source\\repos\\RandomChoiceSelector\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAwwB0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:31:49.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Lovidev\\source\\repos\\RandomChoiceSelector\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lovidev\\Documents\\GitHub\\RandomChoiceSelector\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Lovidev\\source\\repos\\RandomChoiceSelector\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Lovidev\\Documents\\GitHub\\RandomChoiceSelector\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:06:02.941Z",
+              "WhenOpened": "2024-11-11T20:11:09.973Z",
               "EditorCaption": " [Design]"
             }
           ]

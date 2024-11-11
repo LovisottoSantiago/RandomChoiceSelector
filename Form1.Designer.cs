@@ -37,9 +37,11 @@
             // 
             // btn_enter
             // 
-            this.btn_enter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(243)))), ((int)(((byte)(224)))));
+            this.btn_enter.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
+            this.btn_enter.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btn_enter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_enter.Font = new System.Drawing.Font("Poppins", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btn_enter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(62)))), ((int)(((byte)(135)))));
+            this.btn_enter.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
             this.btn_enter.Location = new System.Drawing.Point(148, 272);
             this.btn_enter.Name = "btn_enter";
             this.btn_enter.Size = new System.Drawing.Size(246, 43);
@@ -62,43 +64,52 @@
             // 
             // option_4
             // 
-            this.option_4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(243)))), ((int)(((byte)(224)))));
+            this.option_4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
+            this.option_4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.option_4.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.option_4.Font = new System.Drawing.Font("Poppins SemiBold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.option_4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(139)))), ((int)(((byte)(193)))));
+            this.option_4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
             this.option_4.Location = new System.Drawing.Point(3, 177);
+            this.option_4.MaxLength = 327;
             this.option_4.Name = "option_4";
-            this.option_4.Size = new System.Drawing.Size(441, 36);
+            this.option_4.Size = new System.Drawing.Size(441, 29);
             this.option_4.TabIndex = 4;
             this.option_4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // option_3
             // 
-            this.option_3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(243)))), ((int)(((byte)(224)))));
+            this.option_3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
+            this.option_3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.option_3.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.option_3.Font = new System.Drawing.Font("Poppins SemiBold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.option_3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(139)))), ((int)(((byte)(193)))));
+            this.option_3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
             this.option_3.Location = new System.Drawing.Point(3, 135);
+            this.option_3.MaxLength = 327;
             this.option_3.Name = "option_3";
-            this.option_3.Size = new System.Drawing.Size(441, 36);
+            this.option_3.Size = new System.Drawing.Size(441, 29);
             this.option_3.TabIndex = 3;
             this.option_3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // option_2
             // 
-            this.option_2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(243)))), ((int)(((byte)(224)))));
+            this.option_2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
+            this.option_2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.option_2.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.option_2.Font = new System.Drawing.Font("Poppins SemiBold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.option_2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(139)))), ((int)(((byte)(193)))));
+            this.option_2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
             this.option_2.Location = new System.Drawing.Point(3, 93);
+            this.option_2.MaxLength = 327;
             this.option_2.Name = "option_2";
-            this.option_2.Size = new System.Drawing.Size(441, 36);
+            this.option_2.Size = new System.Drawing.Size(441, 29);
             this.option_2.TabIndex = 2;
             this.option_2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // title
             // 
             this.title.AutoSize = true;
-            this.title.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(62)))), ((int)(((byte)(135)))));
+            this.title.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
             this.title.Font = new System.Drawing.Font("Poppins", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.title.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(203)))), ((int)(((byte)(220)))), ((int)(((byte)(235)))));
+            this.title.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
             this.title.Location = new System.Drawing.Point(107, 11);
             this.title.Name = "title";
             this.title.Size = new System.Drawing.Size(265, 37);
@@ -109,12 +120,15 @@
             // 
             // option_1
             // 
-            this.option_1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(243)))), ((int)(((byte)(224)))));
+            this.option_1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
+            this.option_1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.option_1.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
             this.option_1.Font = new System.Drawing.Font("Poppins SemiBold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.option_1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(96)))), ((int)(((byte)(139)))), ((int)(((byte)(193)))));
+            this.option_1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
             this.option_1.Location = new System.Drawing.Point(3, 51);
+            this.option_1.MaxLength = 327;
             this.option_1.Name = "option_1";
-            this.option_1.Size = new System.Drawing.Size(441, 36);
+            this.option_1.Size = new System.Drawing.Size(441, 29);
             this.option_1.TabIndex = 0;
             this.option_1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.option_1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
@@ -122,9 +136,9 @@
             // finalResult
             // 
             this.finalResult.AutoSize = true;
-            this.finalResult.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(62)))), ((int)(((byte)(135)))));
+            this.finalResult.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
             this.finalResult.Font = new System.Drawing.Font("Poppins", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.finalResult.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(243)))), ((int)(((byte)(243)))), ((int)(((byte)(224)))));
+            this.finalResult.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(243)))), ((int)(((byte)(255)))));
             this.finalResult.Location = new System.Drawing.Point(47, 324);
             this.finalResult.Name = "finalResult";
             this.finalResult.Size = new System.Drawing.Size(443, 34);
@@ -137,7 +151,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(62)))), ((int)(((byte)(135)))));
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(32)))), ((int)(((byte)(30)))));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(542, 380);
             this.Controls.Add(this.finalResult);
